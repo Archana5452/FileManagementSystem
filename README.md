@@ -71,23 +71,23 @@ Welcome to the File Management System (FMS), a web-based application designed to
    3. Utilize Amazon RDS for PostgreSQL to manage the database.
 >>> Settings.py (update the database Name,User,Password,Host)
 
-								DATABASES = {
-								    "default": {
-								        "ENGINE": "django.db.backends.postgresql",
-								        "NAME": "postgres",
-								        "USER": "XXXXXXXX",
-								        "PASSWORD": "XXXXXXXXX",
-								        "HOST": "database-2.cbw5rxvx0i1x.ap-south-1.rds.amazonaws.com",
-								        "POST": "5432",
-								    }
-								} 				
+				DATABASES = {
+				    "default": {
+					"ENGINE": "django.db.backends.postgresql",
+				    	"NAME": "postgres",
+					"USER": "XXXXXXXX",
+					"PASSWORD": "XXXXXXXXX",
+					"HOST": "database-2.cbw5rxvx0i1x.ap-south-1.rds.amazonaws.com",
+					"POST": "5432",
+					}
+				} 				
 					   
-	 4. Leverage Amazon S3 for scalable and durable file storage.
+ 4. Leverage Amazon S3 for scalable and durable file storage.
 >>> Settings.py (Update the AWS ACCESS_KEY,SECRET_ACCESS_KEY, BUCKET)
 						
-						AWS_ACCESS_KEY_ID ='XXXXXXXXXXXXXX'
-						AWS_SECRET_ACCESS_KEY = 'XXXXXXXXXXXXXXXX'
-						AWS_STORAGE_BUCKET_NAME = 'XXXXXXXXXXX'
+			AWS_ACCESS_KEY_ID ='XXXXXXXXXXXXXX'
+			AWS_SECRET_ACCESS_KEY = 'XXXXXXXXXXXXXXXX'
+			AWS_STORAGE_BUCKET_NAME = 'XXXXXXXXXXX'
 			
 
 #### Step Three: Setup/Installation:
