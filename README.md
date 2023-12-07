@@ -1,7 +1,9 @@
 ------------------------------------------------------------------
 --- File Management System (FMS) with Cloud-Powered Backend and Django Framework. ---
 ------------------------------------------------------------------
-<CENTER>![image](https://github.com/Archana5452/FileManagementSystem/assets/135411348/49103201-637d-4a10-90ca-223c1952f9d4)
+<CENTER>
+![image](https://github.com/Archana5452/FileManagementSystem/assets/135411348/94f4ab81-7cc7-485e-9b1c-da714cba08ba)
+
 </CENTER>
 
 
