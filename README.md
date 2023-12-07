@@ -38,13 +38,11 @@ Welcome to the File Management System (FMS), a web-based application designed to
 
 - Python
 - Django
+- AWS (EC2,S3,RDS)
 - HTML
 - CSS
 - JavaScript
-- jQuery
-- Ajax
 - Bootstrap v5
-- Font-Awesome
 
 ### Why Cloud Services?
 
