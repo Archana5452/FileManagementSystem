@@ -1,10 +1,11 @@
 ------------------------------------------------------------------
 --- File Management System (FMS) with Cloud-Powered Backend and Django Framework. ---
 ------------------------------------------------------------------
+<div align="center">
 ![image](https://github.com/Archana5452/FileManagementSystem/assets/135411348/94f4ab81-7cc7-485e-9b1c-da714cba08ba)
-<br><center>
-<h1><a href="http://13.233.210.251:8000"> Demo Link </a></h1>
-</center>
+<br>
+<a href="http://13.233.210.251:8000"> Demo Link </a>
+</div>
 <br>
 Welcome to the File Management System (FMS), a web-based application designed to simplify the storage, upload, management, and sharing of files. FMS is a versatile solution crafted for various users to efficiently handle documents, ensuring accessibility and organization. The cloud-powered backend, built on the Django framework, enhances the system's capabilities, providing scalable hosting, managed database services, and reliable file storage through AWS cloud services. FMS is an ideal tool for users seeking an intuitive and secure platform for seamless file management, with the added benefits of cloud integration for enhanced performance and accessibility.
 
