@@ -106,5 +106,5 @@ Welcome to the File Management System (FMS), a web-based application designed to
    - `python manage.py runserver 0.0.0.0:8000`
    
 #### Step Four: Access the Application:
-   - Open a web browser and browse [http://<Elastic-IP>:8000/](http://<Elastic-IP>:8000/) 
+   - Open a web browser and browse [http://<Elastic-IP>:8000/](http://13.233.210.251:8000/) 
 
